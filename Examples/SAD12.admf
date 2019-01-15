@@ -1,0 +1,12 @@
+{FUTR=The future does not exist, INST=the present is always instantaneous, LAPS=during the present there can be no lapse of time, NOW=only the present exists, PAST=The past does not exist, TIME=time does not exist}
+[G:126.0:419.0:-1
+B:0:0:TIME
+, G:40.0:250.0:0:0
+B:1:0:LAPS
+B:1:1:NOW
+, G:3.0:121.0:1:0
+B:2:0:INST
+, G:92.0:15.0:1:1
+B:3:0:FUTR
+B:3:1:PAST
+]
